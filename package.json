@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon bot.js",
-    "build": "bot.js"
+    "build": "node bot.js"
   },
   "keywords": [],
   "author": "",
